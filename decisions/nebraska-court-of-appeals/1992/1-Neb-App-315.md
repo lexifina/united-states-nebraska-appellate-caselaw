@@ -1,0 +1,65 @@
+---
+court: "Nebraska Court of Appeals"
+docket: "A-91-523"
+decided: "1992-10-27"
+citations: ["1 Neb. App. 315", "493 N.W.2d 357"]
+reporter: "neb-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sievers, Chief Judge, and Connolly and Miller-Lerman, Judges."]
+parties: ["State of Nebraska, appellee, v. Anthony D. Fitzgerald, appellant."]
+source_url: "https://static.case.law/neb-app/1/cases/0315-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2839023
+cites_cases: ["235 Neb. 662", "236 Neb. 831", "239 Neb. 141", "239 Neb. 985", "240 Neb. 97", "597 F.2d 1237", "Neb. Rev. Stat. § 28-707"]
+---
+
+# State v. Fitzgerald
+
+## Majority (Miller-Lerman, Judge.)
+
+Miller-Lerman, Judge.
+Appellant, Anthony D. Fitzgerald, was convicted by a jury of intentional child abuse and sentenced to serve a term of 20 months to 5 years with credit for time served. The incident giving rise to the conviction involved the burning by scalding water of the 2V2-year-old victim, John Parker. Appellant claims that it was error for the trial court to refuse to give his requested jury instruction containing the theory of his defense, admitting to the lesser-included offense of negligent child abuse, and that the evidence was insufficient to support the conviction. For the reasons recited below, we affirm.
+The record supports the following facts: On July 16, 1990, appellant was living with Cynthia Burse; Burse’s 2'/2-year-old son, John Parker; and the couple’s 1-month-old son, Anthony Fitzgerald, Jr. Burse left in the morning to go job hunting, leaving the children in the care of appellant. Sometime in the late morning, the victim was burned by scalding water. The victim was first taken by a neighbor, Herbert Coleman, to St. Joseph Hospital in Omaha, then life-flighted to the burn unit at Saint Elizabeth Community Health Center in Lincoln, where he remained for 2 months. This was followed by rehabilitation at Madonna Rehabilitation Center.
+The medical evidence shows that the victim received second and third degree burns over 31 percent of his body. The area burned included his hands, genitalia, right leg, and right side of his buttocks. The victim’s left side was uninvolved, except for his left hand and foot and a small area around his buttocks. There was no evidence of splash marks on the victim’s body. Dr. Robert W. Gillespie, a burn specialist who examined the victim, testified that the burns were consistent with immersion-type burns. Dr. Gillespie further stated that the victim’s burns were not consistent with an unrestrained contact with extremely hot water because a child the victim’s age, if unrestrained, would have moved around considerably to resist and otherwise extricate himself from the burning water, and thus, the resulting burn would not have been uniform.
+Appellant gave several accounts of the incident to medical and police authorities investigating the events. After being advised of his Miranda rights, appellant first told Omaha police officer Theresa Thorson that he was running his own bath with hot water; that he left the bathroom; and that when he returned, the victim had climbed into the tub of hot water. When challenged, appellant then gave the following account which he testified to at trial. Appellant stated that the victim had vomited, that appellant was bathing him when the phone rang, and that the tub continued to fill with hot water while appellant went downstairs to answer the phone. Appellant claimed that when he returned, the victim was sitting in the scalding water.
+At trial the witnesses included Kathleen Schmitz, the emergency room nurse at St. Joseph; Burse; Officer Thorson; Dr. Gillespie; and appellant. Exhibit 7, a videotape of the victim’s injuries and footage of his skin grafts and medical progress, was also admitted. At the j ury instruction conference, appellant’s counsel proffered a proposed jury instruction on his theory of the defense in which he attempted to differentiate between intentional and negligent child abuse. The court rejected appellant’s proposed jury instruction as repetitive of the court’s own instruction. Following deliberations, the jury convicted appellant of intentional child abuse.
+PROFFERED JURY INSTRUCTION
+Appellant claims that it was prejudicial error for the court to have refused his proposed instruction containing his theory of the case. We do not agree.
+The jury instruction requested by appellant and refused by the court reads as follows:
+The Defendant asserts that he did not intentionally restrain John Parker in the hot bath water. Should the State fail to prove beyond a reasonable doubt that the Defendant intentionally restrained John Parker in the hot water causing the injuries, you must find him not guilty of intentional child abuse.
+Should you find, however, that the Defendant was negligent when he left John Parker unsupervised in the bath tub and the injuries resulted, then you should find him guilty of negligent child abuse.
+The court’s own instruction No. 4, as given, reads as follows:
+Under the Information in this case, depending on the evidence, you may find the defendant, Anthony D. Fitzgerald:
+(a) Guilty of child abuse; or
+(b) Guilty of negligent child abuse; or
+(c) Not guilty.
+SECTION I
+The material elements which the State must prove by evidence beyond a reasonable doubt in order to convict the defendant, Anthony D. Fitzgerald, of the crime of child abuse as charged in the Information are:
+1. That on or about July 16, 1990, John Parker was a minor child, that is, a person less than 19 years of age; and
+2. That on or about July 16, 1990, in Douglas County, Nebraska, the defendant knowingly or intentionally caused or permitted John Parker to be placed in a situation that endangered his life.
+The State has the burden of proving beyond a reasonable doubt each and every one of the foregoing material elements of the crime of child abuse necessary for conviction.
+If you find from the evidence beyond a reasonable doubt that each of the foregoing material elements is true, it is your duty to find the defendant guilty of the crime of child abuse, and you shall not then consider the lesser included offense hereafter set forth in this Instruction.
+On the other hand, if you find the State has failed to prove beyond a reasonable doubt any one or more of the foregoing material elements, it is your duty to find the defendant not guilty of the crime of child abuse. You shall then proceed to consider the lesser included offense of negligent child abuse.
+SECTION II
+The material elements which the State must prove by evidence beyond a reasonable doubt in order to convict the defendant, Anthony D. Fitzgerald, of the lesser included offense of negligent child abuse are:
+1. That on or about July 16, 1990, John Parker was a minor child, that is, a person less than nineteen years of age; and
+2. That on or about July 16, 1990, in Douglas County, Nebraska, the defendant negligently caused or permitted John Parker to be placed in a situation that endangered his life.
+The State has the burden of proving beyond a reasonable doubt each and every one of the foregoing material elements of the lesser included offense of negligent child abuse necessary for conviction.
+If you find from the evidence beyond a reasonable doubt that each of the foregoing material elements is true, it is your duty to find the defendant guilty of the lesser included offense of negligent child abuse.
+On the other hand, if you find the State has failed to prove beyond a reasonable doubt any one or more of the foregoing material elements, it is your duty to find the defendant not guilty of the lesser included offense of negligent child abuse.
+The burden of proof is always on the State to prove beyond a reasonable doubt all of the material elements of the crime charged or included therein, and this burden never shifts.
+On appeal, all the instructions given must be read together, and if the instructions, taken as a whole, correctly state the law, are not misleading, and adequately cover the issues supported by the pleadings and the evidence, there is no prejudicial error necessitating reversal. State v. Williams, 239 Neb. 985, 480 N.W.2d 390 (1992); State v. Johnson, 236 Neb. 831, 464 N.W.2d 167 (1991).
+The court has reviewed the proposed instruction and the instructions as given and concludes that the instructions as given, taken as a whole, correctly and fairly state the law. The court notes that in addition to instruction No. 4, the court also charged the jury on the definitions of the words “knowingly,” “intentionally,” “negligently,” and “endanger.” Based on the instructions as given, the jury as fact finder was equipped to apply the law to the facts.
+Appellant argues that the child abuse statute, Neb. Rev. Stat. § 28-707(1) (Reissue 1989), fails to clearly distinguish between intentional and negligent child abuse and that his proposed instruction should have been given because it would have clarified “the confusion in the [child abuse] statute.” Brief for appellant at 11. The court concludes, as a matter of law, that instruction No. 4, as given, adequately distinguished between intentional and negligent child abuse and that the failure to give appellant’s proposed charge was not error. The court further observes that since appellant’s proposed instruction incorporated appellant’s version of the facts such that it gave undue emphasis to his version of the facts rather than being a statement of controlling legal principles, it was not an appropriate instruction. See United States v. Davis, 597 F.2d 1237 (9th Cir. 1979).
+The court observes:
+To establish reversible error from a court’s refusal to give a requested instruction, an appellant has the burden to show that (1) the tendered instruction is a correct statement of the law; (2) the tendered instruction is warranted by the evidence; and (3) the appellant was prejudiced by the court’s refusal to give the tendered instruction.
+State v. Reynolds, 235 Neb. 662, 691, 457 N.W.2d 405, 423 (1990). Appellant has failed to establish the foregoing, and the court’s refusal to give appellant’s proposed instruction was not error.
+SUFFICIENCY OF THE EVIDENCE
+Appellant argues that the evidence lacks probative value and that it is insufficient, as a matter of law, to support a conviction. The court does not agree.
+The court notes that the trial of this case consumed 2 days and that the transcribed testimony amounts to nearly 200 pages. While there is conflict in the evidence, the court finds, as a matter of law, that there was sufficient evidence to support the conviction beyond a reasonable doubt. See State v. Williams, 239 Neb. 985, 480 N.W.2d 390 (1992).
+The court notes that appellant gave various versions of the incident to different witnesses. Consistent in each account given by appellant is the portrayal of the victim sitting in a tub of hot water. Appellant’s account is not consistent with the medical evidence indicating that both hands and only the right leg and buttock had second and third degree burns. The medical evidence was of such a character that the jury was properly assisted by a skilled professional, Dr. Gillespie, who opined as to the cause and extent of the injury and testified that the burns were consistent with an immersion-type burn.
+The court observes that in reviewing a criminal conviction, it is not the province of this court to resolve conflicts in the evidence, pass on the credibility of witnesses, determine the plausibility of explanations, or weigh the evidence. Such matters are for the finder of fact, and the verdict of the jury must be sustained if, taking the view most favorable to the State, there is sufficient evidence to support it. State v. Smith, 240 Neb. 97, 480 N.W.2d 705 (1992); State v. Williams, supra.
+As noted above, the witnesses at trial included Nurse Schmitz, Burse, Officer Thorson, Dr. Gillespie, neighbor Coleman, and appellant. The record was amplified by photographs and a video of the victim and his injuries. The court notes that Dr. Gillespie’s testimony in particular, to the effect that the victim suffered immersion-type burns from being dipped in scalding water, is of probative value and represents the kind of evidence on which a fact finder may rely. On a claim of insufficiency of the evidence, an appellate court will not set aside a guilty verdict in a criminal case where such verdict is supported by relevant evidence. State v. Williams, supra. The court further observes that the issue of appellant’s intent was properly submitted to the jury, that intent is often proven by circumstantial evidence, and that on appeal the State “is entitled to have all conflicting evidence, direct and circumstantial, viewed in its favor.” State v. Morley, 239 Neb. 141, 149, 474 N.W.2d 660, 666 (1991). Viewing the evidence as a whole, we find there was ample evidence to support the jury’s verdict of intentional child abuse.
+For the foregoing reasons, the jury’s verdict is affirmed.
+Affirmed.
