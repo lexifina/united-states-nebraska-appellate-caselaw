@@ -1,0 +1,51 @@
+---
+court: "Nebraska Court of Appeals"
+docket: "A-93-569"
+decided: "1994-05-31"
+citations: ["2 Neb. App. 872", "517 N.W.2d 622"]
+reporter: "neb-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sievers, Chief Judge, and Connolly and Hannon, Judges."]
+parties: ["Santo Buda, on behalf of Adam Buda and Ali Buda, minor children, appellee, v. Linda Humble, appellant."]
+source_url: "https://static.case.law/neb-app/2/cases/0872-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5370260
+cites_cases: ["119 Neb. 387", "147 Neb. 284", "158 Neb. 436", "174 Neb. 886", "175 Neb. 1", "177 Neb. 319", "192 Neb. 243", "223 Neb. 365", "229 N.W. 121", "231 Neb. 731", "237 Neb. 406", "244 Neb. 665", "46 Neb. 138", "58 Neb. 513", "64 N.W. 698", "78 N.W. 1071", "Neb. Rev. Stat. § 25-1062", "Neb. Rev. Stat. § 25-1902", "Neb. Rev. Stat. § 25-1916", "Neb. Rev. Stat. § 42-901"]
+---
+
+# Buda ex rel. Buda v. Humble
+
+## Majority (Hannon, Judge.)
+
+Hannon, Judge.
+On behalf of himself and his children, Adam Buda and Ali Buda, Santo Buda applied for a protection order under the Protection from Domestic Abuse Act, Neb. Rev. Stat. § 42-901 et seq. (Reissue 1988, Cum. Supp. 1992 & Supp. 1993) against the respondent, Linda Humble. Based on the application and an attached affidavit, the court entered a protection order restraining Humble from (1) imposing any restraint upon the person or liberty of the petitioner; (2) threatening, assaulting, molesting, attacking, or otherwise disturbing the peace of the petitioner or of the minor children; (3) entering upon the premises occupied by the petitioner; and (4) harassing the petitioner by telephone, in person, or by stalking the petitioner. This order was dated May 19,1993, and it set a hearing date for Humble to appear and show cause why said order should not remain in effect for 1 year. On June 8,1993, a hearing was held, and the trial docket entry stated, “Protection Hearing. Pet[.j pro-se, Resp. by counsel of record. Evid. adduced. Resp[.]’s motion to dismiss as to Santo Buda sustained. Protection order granted as to [Petitioner’s] minor children.” No new order was executed, and the original protection order was not amended. Humble appeals.
+ASSIGNMENTS OF ERROR
+Humble asserts the following: (1) The court erred in granting the ex parte protection order, and (2) the court erred in granting the protection order which prohibited her from disturbing the children’s peace and required no contact with the children.
+Buda maintains the order appealed from is not a final order and therefore is not appealable.
+SCOPE OF REVIEW
+No bill of exceptions was filed in this case. The responsibility for filing a bill of exceptions for appellate review rests with the appellant. Collins v. Baker’s Supermarkets, 223 Neb. 365, 389 N.W.2d 774 (1986); Neb. Ct. R. of Prac. 5A(2) (rev. 1993). In the absence of a bill of exceptions, an appellate court presumes that any issue of fact raised by the pleadings received support from the evidence. When the transcript, containing the pleadings and order in question, is sufficient to present an issue for appellate disposition, a bill of exceptions is unnecessary to preserve alleged error of law. Murphy v. Murphy, 237 Neb. 406, 466 N.W.2d 87 (1991). This court then examines whether the pleadings support the judgment. Id. The scope of our review is limited to the question of jurisdiction and whether the pleadings supported the order of the court.
+IS THE ORDER APPEALABLE?
+Buda’s counsel argues that the court’s protection order is not a final order and therefore is not appealable. An injunction is a command to refrain from a particular act. Neb. Rev. Stat. § 25-1062 (Reissue 1989). The order in this case commands Humble to refrain from doing certain things, and it is an injunction. The violation of a protection order is a Class II misdemeanor. § 42-924(3). The order entered in the trial docket had the effect of setting the injunction for a 1-year period. After the June 8 hearing, the order was granted as to Buda’s minor children, and no further action was authorized under the Protection from Domestic Abuse Act or the order entered by the court.
+When no further action by the court is required to dispose of the cause pending and an order has been entered affecting a substantial right, it is a “final” and appealable order. Brozovsky v. Norquest, 231 Neb. 731, 437 N.W.2d 798 (1989). The ex parte protective order in this case is the equivalent of a temporary restraining order entered without notice. Neb. Rev. Stat. 25-1064 (Cum. Supp. 1992). A temporary injunction is not an appealable order. Guaranty Fund Commission v. Teichmeier, 119 Neb. 387, 229 N.W. 121 (1930); Einspahr v. Smith, 46 Neb. 138, 64 N.W. 698 (1895). However, allowing an appeal from the order of an injunction seems to be so obvious that no cases can be found which consider the question. See Neb. Rev. Stat. § 25-1916(4) (Cum. Supp. 1992) (providing for supersedeas bonds in appeals involving the modification or dissolution of an injunction).
+The order appealed from states Humble is prohibited from doing the acts for 1 year. It is not permanent, but it is a final and permanent order in the sense that it finally determined the rights of the parties concerning the protection order following an evidentiary hearing. See, Galstan v. School Dist. of Omaha, 177 Neb. 319, 128 N.W.2d 790 (1964), overruled on other grounds, School Dist. of Waterloo v. Hutchinson, 244 Neb. 665, 508 N.W.2d 832 (1993); Dorshorst v. Dorshorst, 174 Neb. 886, 120 N.W.2d 32 (1963); Neb. Rev. Stat. § 25-1902 (Reissue 1989). No further court action is contemplated by the statutes under which the order was issued or by the order itself.
+PERMANENT PROTECTION ORDER
+The court’s order restraining Humble for 1 year is a final, appealable order. However, because no bill of exceptions was presented, the only question to consider is the sufficiency of the pleadings. “It is elementary that a judgment must be supported by the pleadings.” Harrison v. Grizzard, 192 Neb. 243, 245, 219 N.W.2d 766, 768 (1974). A petition that does not state facts sufficient to constitute a cause of action will not support a judgment rendered thereon. Hague v. Sterns, 175 Neb. 1, 120 N.W.2d 287 (1963). A petition may be attacked as insufficient to state a cause of action at any stage of the proceedings and may be assailed on such ground in the appellate court for the first time, where the plaintiff, as a matter of law, cannot recover under any circumstances on the statement of facts pled. Vielehr v. Malone, 158 Neb. 436, 63 N.W.2d 497 (1954); Kemper v. Renshaw, 58 Neb. 513, 78 N.W. 1071 (1899). However, in such cases, the petition will be construed liberally and held sufficient on appeal, in the absence of an objection in the trial court, if the defect is amendable. State v. Neimer, 147 Neb. 284, 23 N.W.2d 81 (1946).
+APPLICABLE STATUTES
+Section 42-924 authorizes protection orders of the type issued in this case. This section provides, in relevant part, the following:
+(1) Any victim of domestic abuse or any victim who has been willfully and maliciously harassed by a person who had the intent to terrify, threaten, or intimidate the victim as prohibited by section 28-311.03 may file an application and affidavit for a protection order by making a showing of such conduct with any judge of a district court or a conciliation court. Upon the filing of such an application and affidavit in support thereof, the judge or court may issue a protection order without bond enjoining the adverse party from (a) imposing any restraint upon the person or liberty of the applicant or (b) threatening, assaulting, molesting, attacking, or otherwise disturbing the peace of the applicant.
+(Emphasis supplied.)
+Section 42-925 also provides, in significant part:
+Any order issued under subsection (1) or (2) of section 42-924 may be issued ex parte without notice to the adverse party if it reasonably appears from the specific facts shown by affidavit of the applicant that irreparable harm, loss, or damage will result before the matter can be heard on notice.
+BUDA’S APPLICATION AND AFFIDAVIT
+The application and affidavit forms filed by Buda on May 19,1993, are forms that are prepared and supplied by the clerk of the district court, pursuant to § 42-924.02. The application form allows the applicant to adopt preprinted allegations by placing a check upon a blank line immediately before the specific allegation. Buda did not check any of the preprinted allegations under the section entitled “Domestic Abuse.” He did check an allegation contained under the section entitled “Harrassment [sic].”
+Buda stated the residential addresses of the parties and that “Petitioner has been willfully and maliciously harassed by Respondent with the intent to terrify, threaten or intimidate Petitioner.” The application also incorporated by reference that “Petitioner is in fear of physical harm from Respondent as supported by the attached affidavit.” In the affidavit, Buda states that “a Protection Order is needed to protect her or him and her or his family from the Respondent as the Respondent has been guilty of acts of a harassing nature and physical violence toward the Petitioner.” The affidavit then contains a section stating, “The following are recent abusive or harassing acts conducted by the Respondent against the Petitioner: (state the Date, Time, Location of Act, and What Happened).” In the area provided, Buda wrote:
+Disturbing Peace of Petitioner
+Imposed restraint upon Personal liberty
+Disturbed Peace of Children
+Telephone hang ups
+False Accusations of Damage to her Vehicle
+False Accusations to News media
+The allegations contained in Buda’s application, particularly those in the affidavit wherein he was to specifically describe the conduct complained of, are too general to support a finding that any protective order should be issued. These allegations are simply conclusions. They do not sufficiently state that Buda or his children have been willfully or maliciously harassed by Humble. For this reason, we reverse the judgment and remand this cause to the district court with directions to dismiss.
+Reversed and remanded with
+DIRECTIONS TO DISMISS.
