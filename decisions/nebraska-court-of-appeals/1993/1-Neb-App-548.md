@@ -1,0 +1,34 @@
+---
+court: "Nebraska Court of Appeals"
+docket: "A-92-329"
+decided: "1993-03-02"
+citations: ["1 Neb. App. 548", "499 N.W.2d 860"]
+reporter: "neb-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sievers, Chief Judge, and Connolly and Wright, Judges."]
+parties: ["State of Nebraska, appellee, v. Paula Boye, appellant."]
+source_url: "https://static.case.law/neb-app/1/cases/0548-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2837482
+cites_cases: ["239 Neb. 882", "240 Neb. 44", "240 Neb. 913", "240 Neb. 97", "Neb. Rev. Stat. § 28-517"]
+---
+
+# State v. Boye
+
+## Majority (Sievers, Chief Judge.)
+
+Sievers, Chief Judge.
+Paula Boye appeals her bench-trial conviction for theft by receiving stolen property, Neb. Rev. Stat. § 28-517 (Reissue 1989), a Class II misdemeanor. The York County Court sentenced Boye to 30 days in jail. The district court for York County affirmed her conviction and sentence. She assigns as error (1) insufficiency of evidence, (2) improperly admitted evidence, and (3) excessive sentence.
+When an appellate court reviews a decision of a district court which affirmed, reversed, or modified a decision of a county court, it will consider only those errors specifically assigned in the appeal to the district court and again assigned as error in the appeal to the higher appellate court. State v. Richter, 240 Neb. 913, 485 N.W.2d 201 (1992).
+In this case, Boye filed her notice of appeal to the district court for York County on January 8,1992. “Within 10 days of filing a notice of appeal, the appellant shall file with the district court a statement of errors, which shall consist of a separate, concise statement of each error a party contends was made by the trial court.” Neb. Ct. R. of Cty. Cts. 52(I)(G) (rev. 1992). Rule 52(I)(G) further limits the district court’s review to errors assigned and discussed in the statement of errors. The rule permits the district court, at its option, to notice plain error not assigned. Although there is no statement of errors in the record, it appears that the district court reviewed the case using the generally stated “reasons” provided in Boye’s notice of appeal. That notice stated in its entirety:
+You are hereby notified that the Defendant, Paula Boye, intends to appeal her conviction in regards to the above and foregoing matter to the District Court of York County, Nebraska for the reason that said conviction is contrary to law; that certain evidence was improperly entered over objection; that the sentence imposed is excessive.
+We find that this notice of appeal is not an adequate substitute for a statement of errors, with the exception of the claim of excessive sentence. That “said conviction is contrary to law” and that “certain evidence was improperly entered over objection” are not the sort of separate, concise statements of each error that rule 52(I)(G) contemplates. The purpose of the rule is to specifically direct the attention of the reviewing court to precisely what error was allegedly committed by the lower court and to advise the nonappealing party of what is specifically at issue in the appeal. Thus, generalized statements such as “contrary to law” and “certain evidence [without designation] was improperly, entered over objection” are directly contrary to the clear purpose of the rule and need not be considered by the district court, nor will they be considered by this court. The statement claiming excessive sentence is concise, fulfills the purpose of the rule, and will be reviewed by this court as an assigned error.
+The record in this case shows that on approximately May 15, 1991, Marlene Graves, owner-manager of Merle’s Nursery in York, Nebraska, reported a theft of some property to the police. She reported missing a decorative wood stump, a macrame plant hanger, and a plastic planter in the shape of a lamb. The items had a total value of less than $100. Marlene Graves’ comanager, Heather Graves, testified that a decorative swan was also taken from the store.
+In early August 1991, police officer Ronald Dickerson conducted a followup investigation on a Crimestoppers’ tip regarding the property taken from Merle’s Nursery. Upon arriving at the Boye, residence, Dickerson noticed three items which matched the description of the property that Marlene Graves had reported stolen — the wood stump, the macrame, and the plastic planter. Dickerson was unable to get Boye to come to the door, so he contacted Marlene Graves and asked her to come to the residence to identify the property, which she did. Dickerson then seized the property, and Boye was later questioned and arrested.
+Dickerson testified that when he questioned Boye at the police station, Boye indicated that the wood stump had been brought to her from California by a friend about a year prior. Boye also told Dickerson that the macrame had been found by a charity drop box near an Econofoods store and that the planter had been purchased from a traveling salesman at a Comfort Inn motel. Boye also indicated that Jennifer Nisula had purchased a swan from this same salesman. Nisula testified, however, that she had received the swan from Boye when she was visiting Boye’s home sometime near the end of May 1991. Nisula also testified that Boye had removed the swan from Nisula’s yard after Boye had been arrested.
+Although insufficiency of the evidence was claimed in Boye’s appeal to this court, our review of her conviction is for excessive sentence and plain error only. Therefore, this court looks to the record for only those errors uncomplained of at trial which prejudiced a substantial right of Boye to the extent that to leave them uncorrected would cause a miscarriage of justice or damage the integrity, reputation, and fairness of the judicial process. See State v. Wilcox, 239 Neb. 882, 479 N.W.2d 134 (1992). We find no plain error in this record and therefore affirm the conviction.
+With respect to Boye’s assignment of error claiming excessive sentence, we note that in considering a sentence, the sentencing court is not limited in its discretion to any mathematically applied set of factors. The appropriateness of a sentence is necessarily a subjective judgment and includes the sentencing judge’s observation of the defendant’s demeanor and attitude and all the facts and circumstances surrounding the defendant’s life. State v. Wounded Arrow, 240 Neb. 44, 480 N.W.2d 205 (1992).
+Furthermore, an appellate court will reduce a sentence only when the reasoning behind the sentence is so clearly untenable that it constitutes an abuse of discretion. State v. Smith, 240 Neb. 97, 480 N.W.2d 705 (1992).
+In light of Boye’s considerable history of theft offenses, we find no abuse of discretion in her 30-day jail sentence. Therefore, we affirm the conviction and sentence in all respects.
+Affirmed.
