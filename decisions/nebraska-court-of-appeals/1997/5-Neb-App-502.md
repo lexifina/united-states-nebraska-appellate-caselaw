@@ -1,0 +1,44 @@
+---
+court: "Nebraska Court of Appeals"
+docket: "A-95-714"
+decided: "1997-03-04"
+citations: ["5 Neb. App. 502", "560 N.W.2d 864"]
+reporter: "neb-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hannon and Mues, Judges, and Norton, District Judge, Retired."]
+parties: ["Nancy Sturdevant, appellee, v. Harold Lee Sturdevant, Jr., appellant."]
+source_url: "https://static.case.law/neb-app/5/cases/0502-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1594684
+cites_cases: ["148 Neb. 832", "222 Neb. 306", "238 Neb. 527", "245 Neb. 109", "245 Neb. 611", "249 Neb. 656", "4 Neb. App. 307", "Neb. Rev. Stat. § 25-2001"]
+---
+
+# Sturdevant v. Sturdevant
+
+## Majority (Norton, District Judge, Retired.)
+
+Norton, District Judge, Retired.
+Harold Lee Sturdevant, Jr., appeals from an order of the district court overruling his motion for discharge of lump-sum alimony. For the reasons set forth below, we affirm.
+STATEMENT OF FACTS
+Harold Lee Sturdevant, Jr. (Lee), and Nancy Sturdevant were separated by decree on November 2,1988. Initially, before their separation, both Lee and Nancy lived in Papillion, Nebraska. In June 1987, Lee, an officer in the U.S. Air Force, was transferred to Okinawa, Japan, and at that time, Nancy and the parties’ two children accompanied him. Before leaving the United States, Nancy and Lee put several items of their property in storage, including a 1967 Newing Mooney airplane. After a few months, Nancy returned to the United States, and she filed for separation in Sarpy County District Court on April 21, 1988.
+When Lee returned to Papillion on leave in April 1988, he discovered that the airplane log, engine log, propeller log (hereinafter referred to as logbooks), weight and balance certificate, and battery had been removed from the airplane. The documents had been stored in the aircraft in the hatrack in a plastic binder. The record reflects that Nancy had the battery in her possession and returned it to Lee upon his request. The record is unclear regarding the weight and balance certificate, although it appears that Nancy had the weight and balance certificate with the battery and returned the certificate to Lee at the time she returned the battery. Lee claims that Nancy took the logbooks out of the airplane and retained them, a statement with which Nancy disagrees. At the time of trial, Lee had been unable to locate any of the logbooks.
+Under the decree, the court awarded Lee and Nancy the personal items in their possession. The court awarded Nancy all of the items the parties placed in storage, except for Lee’s tools and personal effects. Lee was awarded the Newing Mooney airplane, which he transferred to his brother in June 1989. The district court ordered Lee to pay Nancy lump-sum alimony in the amount of $21,050.
+In September 1990, Lee was transferred back to Offutt Air Force Base in Bellevue, Nebraska, and at that time, he discovered that certain items of personal property awarded to him in the decree were no longer in storage. Lee alleges that Nancy removed this property from storage and refuses to give it back. Nancy testified that she never removed any of Lee’s property placed in storage.
+On September 18, 1990, Lee filed bankruptcy. Lee alleges that at the time of filing he was not yet aware that certain personal items of his had been taken out of storage. On his bankruptcy schedules, Lee did not list any of his possessions as lost or stolen.
+Lee alleges that he suffered a loss as the result of Nancy’s alleged retention of his property and asked the court to apply the loss he sustained as a credit against the lump-sum alimony award he owes to Nancy. The district court declined to find that Nancy converted any of Lee’s property and denied Lee’s motion for discharge of lump-sum alimony.
+ASSIGNMENTS OF ERROR
+Lee’s contentions may be consolidated for the purposes of this appeal. Essentially, Lee contends that the district court erred in overruling his motion for discharge of lump-sum alimony and by failing to decrease Nancy’s lump-sum alimony to compensate Lee for the loss he sustained as a result of Nancy’s unlawful retention of his property.
+STANDARD OF REVIEW
+The modification of an alimony award is entrusted to the discretion of the trial court and will be reviewed de novo on the record for an abuse of discretion. See Ainslie v. Ainslie, 249 Neb. 656, 545 N.W.2d 90 (1996). Abuse of judicial discretion exists when reasons or rulings of a trial judge are clearly untenable such as to unfairly deprive a litigant of a substantial right and just result. Id.; Mathis v. Mathis, 4 Neb. App. 307, 542 N.W.2d 711 (1996).
+ANALYSIS
+The district court may, on motion and satisfactory proof that a judgment has been paid or satisfied in whole or in part by the act of the parties thereto, order it discharged and canceled of record, to the extent of the payment or satisfaction. Berg v. Berg, 238 Neb. 527, 471 N.W.2d 435 (1991); Cotton v. Cotton, 222 Neb. 306, 383 N.W.2d 739 (1986).
+Where the evidence is in conflict on a material issue of fact, an appellate court considers, and may give weight to, the fact that the trial judge heard and observed the witnesses and accepted one version of the facts rather than another. Sabatka v. Sabatka, 245 Neb. 109, 511 N.W.2d 107 (1994).
+Based on the record, we find that the trial court properly denied Lee’s motion to discharge lump-sum alimony. There was conflicting evidence on two material issues of fact in this case: (1) whether Nancy converted the logbooks that were in the airplane and (2) whether Nancy converted other items awarded to Lee in the decree. After hearing and observing the witnesses, the district judge clearly accepted Nancy’s version of the facts rather than Lee’s. Following our de novo review of the record, we find that the court did not err.
+The conflicting evidence was as follows: Regarding the Newing Mooney airplane, Lee testified that he and Nancy placed the plane in storage in June 1987. Lee testified that in April 1988, he returned home to Papillion on leave and found that the plane’s logbooks, weight and balance certificate, and battery were missing. Lee testified that upon realizing that the items were missing, he called Nancy and asked if she had taken them. Specifically, Lee testified that he and Nancy had the following conversation in April 1988:
+When I called her and asked her if she had the documents, she said that she did, and I told her they really belonged with the airplane. She said she had taken them out and I told her that was a rather serious thing to do, and she responded that I had better not threaten her, that she was going to keep and take what she had.
+Lee further testified that the plane was worth between $25,000 and $35,000 in 1988 before the logbooks were removed, that it was illegal to fly the plane without the logbooks, and that the plane is now worth salvage value, which Lee estimated is between $2,000 and $2,500.
+Nancy testified that she had removed the battery from the airplane because it was winter, the battery was expensive, and she was afraid that the battery would freeze if left in the plane. Nancy testified that she did not take anything else from the airplane. She also testified that she never told Lee that she had any of the other items that were in the plane and that the conversation Lee testified about never took place.
+Lee contends that Nancy took other items awarded to him in the decree. These items were placed in storage before Lee and Nancy’s move to Japan. Lee testified that only he and Nancy had lawful access to the items in storage. Lee’s only testimony on this issue was that he had seen his wheelbarrow at Nancy’s place and believed that she had the other items of his property in her possession. The district judge noted that he did not find Lee’s testimony credible concerning these other items because Lee failed to list any of the items as lost or stolen on his bankruptcy schedules. Nancy testified that she has only one item on Lee’s list of missing property. The one item is a lawnmower, which Nancy testified she kept because she did not consider it a tool.
+We have accorded weight to the fact that the district judge heard the above testimony, and we conclude that in effect, Lee was attempting to modify the parties’ decree. The district court was without authority to modify the decree in these proceedings under either Neb. Rev. Stat. § 25-2001 (Reissue 1995) or its independent equity jurisdiction. See, DeVaux v. DeVaux, 245 Neb. 611, 514 N.W.2d 640 (1994); Shinn v. Shinn, 148 Neb. 832, 29 N.W.2d 629 (1947). Thus, we conclude that the district court did not abuse its discretion in denying Lee’s motion for discharge of lump-sum alimony. Lee is ordered to pay Nancy $1,500 in attorney fees for this appeal.
+Affirmed.
