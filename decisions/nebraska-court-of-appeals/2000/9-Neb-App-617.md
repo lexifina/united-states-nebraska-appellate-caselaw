@@ -1,0 +1,35 @@
+---
+court: "Nebraska Court of Appeals"
+docket: "A-99-1296"
+decided: "2000-08-15"
+citations: ["9 Neb. App. 617", "616 N.W.2d 75"]
+reporter: "neb-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Irwin, Chief Judge, and Sievers and Carlson, Judges."]
+parties: ["State of Nebraska, appellee, v. Gregory T. Miller, appellant."]
+source_url: "https://static.case.law/neb-app/9/cases/0617-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 940317
+cites_cases: ["235 Neb. 330", "251 Neb. 477", "254 Neb. 260", "256 Neb. 56", "257 Neb. 943", "5 Neb. App. 463", "585 N.W.2d 125", "7 Neb. App. 816", "7 Neb. App. 963", "Neb. Rev. Stat. § 29-1207"]
+---
+
+# State v. Miller
+
+## Majority (Irwin, Chief Judge.)
+
+Irwin, Chief Judge.
+I. INTRODUCTION
+Upon Gregory T. Miller’s motion, the county court for Douglas County discharged Miller’s case on speedy trial grounds. The State appealed to the district court, which entered an order reversing the judgment of the county court and remanding the case for trial. To this court, Miller appeals the judgment of the district court. Given the state of the record before us, we conclude that the 6-month speedy trial period commencing July 24, 1998, had not yet expired when Miller filed his motion for discharge on January 5, 1999. Therefore, we affirm the judgment of the district court.
+II. FACTUAL BACKGROUND
+The record shows that following a trial, Miller appealed to the district court his convictions for assault and battery, disorderly conduct, and discharging a projectile. The district court issued a mandate on June 29, 1998, reversing the convictions and remanding the case for a new trial. The mandate was received by the county court on July 10. The next document contained in the record before us is the county court’s register of action dated July 24, 1998, that reflects that Miller was arraigned on the charges and that the case was set for trial on October 7. The record further shows that on October 7, the State moved to continue the trial without objection by Miller and that the trial was continued to January 19, 1999.
+On January 5, 1999, Miller filed a motion for discharge in which he contended that his statutory right to speedy trial had been violated. The motion was granted by the county court. On the State’s timely appeal, the district court reversed the judgment of the county court and remanded the case for trial. Miller timely appealed to this court.
+III. ASSIGNMENTS OF ERROR
+Miller assigns that the district court erred in finding that a motion to discharge should be treated as a pretrial motion that tolls the 6-month speedy trial period and in reversing the county court’s decision granting his motion to discharge.
+IV. ANALYSIS
+We address whether the district court erred in reversing the county court’s judgment granting Miller’s motion for discharge. The issues before us include when the 6-month speedy trial period commenced and whether the filing of Miller’s motion for discharge suspended the 6-month period. Both the district court and a higher appellate court generally review appeals from the county court for error appearing on the record. State v. Patterson, 7 Neb. App. 816, 585 N.W.2d 125 (1998). As a general rule, the trial court’s determination as to whether charges should be dismissed on speedy trial grounds is a factual question which will be affirmed on appeal unless clearly erroneous. State v. Kinser, 256 Neb. 56, 588 N.W.2d 794 (1999).
+Pursuant to Neb. Rev. Stat. § 29-1207 (Reissue 1995), the State has 6 months to bring a defendant to trial. Under this statute, when a defendant is to be tried again following an appeal, the 6-month period commences “from the date of... the mandate on remand.” § 29-1207(3). In Kinser, the Nebraska Supreme Court held that for the purposes of § 29-1207(3), “the date of the ‘mandate on remand’ is the date on which the district court first takes action pursuant to the mandate.” 256 Neb. at 60, 588 N.W.2d at 798. In Kinser, the court clearly stated that there must be some action taken pursuant to the mandate: The 6-month period does not commence on the date the mandate is issued or the date it is received by the lower court. In Kinser, the Nebraska Supreme Court determined that on the record before it, the first action taken on the mandate by the district court was the district court’s act of spreading the mandate on its record.
+In the case before us, we must determine on the record before us when the county court first took action on the mandate of the district court. Although it is clear from the record before us that the district court issued the mandate on June 29, 1998, and the county court received the mandate on July 10, neither of those events commenced the 6-month speedy trial period. See Kinser, supra. The first action taken by the county court based on the record before us is the arraignment of July 24. Although we recognize that the county court may have taken some action in the case after receipt of the mandate and prior to the arraignment, we are limited by the record provided to us by the parties. It is incumbent upon an appellant to present a record which supports the errors assigned. State v. Bush, 254 Neb. 260, 576 N.W.2d 177 (1998); Van Ackeren v. Nebraska Bd. of Parole, 251 Neb. 477, 558 N.W.2d 48 (1997). Appellate review is limited to the record presented to the appellate court. See, e.g., State v. Brooks, 5 Neb. App. 463, 560 N.W.2d 180 (1997). For the purposes of our review based on the limitations of the record provided us, we conclude that the 6-month speedy trial period commenced on July 24,1998. Because January 23,1999, fell on a Saturday, the State had until January 25 to bring Miller to trial.
+The next issue to resolve is the effect of Miller’s motion to discharge. Miller argues that his motion to discharge should not be treated as a pretrial motion of a defendant under § 29-1207(4)(a). It is clear from the case law that the date on which a court considers whether a defendant’s right to speedy trial has been violated is the date on which a defendant files his or her motion for discharge. See, State v. White, 257 Neb. 943, 601 N.W.2d 731 (1999); Kinser, supra; State v. Ebert, 235 Neb. 330, 455 N.W.2d 165 (1990); State v. Meyer, 7 Neb. App. 963, 588 N.W.2d 200 (1998). The filing of a motion to discharge tolls the running of the speedy trial clock. See, Kinser, supra; Meyer, supra. In the case before us, Miller filed his motion to discharge on January 5, 1999. The filing of this motion tolled the speedy trial clock until the resolution of such motion.
+Based on the record before us, the county court’s decision granting Miller’s motion to discharge was clearly erroneous, and, therefore, the district court did not err in reversing the county court’s decision. Given the record, the 6-month speedy trial period which began on July 24, 1998, had not yet expired at the time of the filing of Miller’s motion to discharge on January 5, 1999. For these reasons, we affirm the judgment of the district court.
+Affirmed.
