@@ -1,0 +1,30 @@
+---
+court: "Nebraska Court of Appeals"
+docket: "A-01-977"
+decided: "2001-11-20"
+citations: ["10 Neb. App. 655", "635 N.W.2d 550"]
+reporter: "neb-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Irwin, Chief Judge, and Hannon and Sievers, Judges."]
+parties: ["Billy Roy Tyler, appellant, v. LaVon Stennis, appellee."]
+source_url: "https://static.case.law/neb-app/10/cases/0655-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 745221
+cites_cases: ["1 Neb. App. 84", "216 Neb. 421", "254 Neb. 852", "498 U.S. 177", "677 F. Supp. 1410", "839 F.2d 1290"]
+---
+
+# Tyler v. Stennis
+
+## Majority (Sievers, Judge.)
+
+Sievers, Judge.
+Billy Roy Tyler, the plaintiff herein, is an inmate at the Nebraska State Penitentiary. He sold a house in 1992 to Calvin Dunn. The property was encumbered by a child support lien in the approximate amount of $2,300, and part of the proceeds from the sale were to be used to satisfy that lien. LaVon Stennis, an attorney, was involved in the real estate closing. Through a series of lawsuits and other proceedings, Tyler has maintained that Stennis fraudulently presented a check for negotiation and absconded with funds which Tyler claims were his. In the above-captioned appeal, we have a 329-page transcript. That transcript has been paid for at public expense as Tyler proceeds in forma pauperis. Tyler seeks to appeal the August 9, 2001, order of Douglas County District Court Judge Mary G. Likes, which order states, “Pursuant to Rule 4-12, this case shall be reassigned to Judge John Hartigan, Jr., who has a lower-docketed companion case at Doc. 958, No. 242.”
+No citation of authority is necessary to establish the proposition that the foregoing order, essentially an administrative matter on the part of the district court for Douglas County, Nebraska, is not a final, appealable order.
+This appeal is obviously frivolous. The definition of a frivolous action is well established as a legal position wholly without merit, meaning without rational argument based on either law or evidence to support a litigant’s position. State ex rel. Mooney v. Duer, 1 Neb. App. 84, 487 N.W.2d 575 (1992).
+This court is not unfamiliar with Tyler’s actions against Stennis and Dunn. The Douglas County District Court case, docket 958 page 242, which Judge Likes referenced in her order, has spawned 19 previously docketed appeals or original actions, all taken by Tyler, from 1997 through this appeal. (Two additional appeals to this court involving Stennis and Dunn, cases Nos. A-01-1059 and A-01-1060, have been filed since the instant case was docketed, which additional appeals we dismiss today by separate orders without opinions.) All of these appeals in one way or another flow from Tyler’s attempt to sue Stennis and Dunn as briefly summarized above. This court in our case No. A-00-591 summarily affirmed a dismissal by the district court of Tyler’s claim against Stennis and Dunn, and our mandate issued on November 7, 2000. That decision legally ended the matter, but Tyler continues to inundate the courts with claims and appeals from a case which was finished long ago. Tyler’s propensity for frivolous litigation has been the subject of several court orders limiting his access to both state and federal district courts. See, In re Tyler, 677 F. Supp. 1410 (D. Neb. 1987), aff’d 839 F.2d 1290 (8th Cir. 1988); State ex rel. Tyler v. Douglas Cty. Dist. Ct., 254 Neb. 852, 580 N.W.2d 95 (1998).
+The Nebraska Supreme Court has entered administrative orders limiting Tyler’s access to the judicial process. (See administrative orders dated October 28, 1999.) Frequent and frivolous suits unsettle the fair administration of justice, and all courts have the duty to deny in forma pauperis status to those individuals who have abused the system. In re Sindram, 498 U.S. 177, 111 S. Ct. 596, 112 L. Ed. 2d 599 (1991). The Nebraska Supreme Court noted in one of its orders of October 28, 1999, about Tyler that it was its duty to prevent frivolous proceedings in the administration of justice, citing Sargent Feed & Grain v. Anderson, 216 Neb. 421, 344 N.W.2d 59 (1984). We have the same duty, as do the trial courts. Tyler’s repeated frivolous actions against Stennis and Dunn result in other litigants being deprived of limited judicial resources. Moreover, Tyler’s frivolous lawsuits are at public expense because he is usually given in forma pauperis status by trial courts. Therefore, with respect to Tyler, Stennis, and Dunn, this court shall fulfill this duty, recognizing that Tyler has had his day in court on his claims against Stennis and Dunn.
+When appropriate, such as in the case of frivolous lawsuits, trial courts have the obligation to deny in forma pauperis status to a litigant and should do so. It follows that we too have an obligation to responsibly manage our docket. If the trial court has incorrectly granted a litigant in forma pauperis status in an obviously frivolous case, we are obligated to dismiss the appeal.
+It is therefore ordered that the Clerk of the Court of Appeals is directed not to accept any further appeals instituted by Billy Roy Tyler, also known as Billy Tyler, in any proceedings in which LaVon Stennis or Calvin Dunn is a named litigant unless such notice of appeal includes a signed statement under oath by Tyler that such case has no connection or relationship in any way to the real estate transaction in 1992 in which Tyler, Stennis, and Dunn were involved. The clerk of this court shall not docket any appeal which violates this order, but shall maintain a record of any such attempted appeals by Tyler involving Stennis or Dunn for farther action by the court. Copies of this order shall be mailed to Tyler, Stennis, Dunn, Judges Hartigan and Likes, and the clerk of the district court for Douglas County.
+It is further therefore ordered, adjudged, and decreed that this appeal be and is hereby dismissed.
+Appeal dismissed.
