@@ -1,0 +1,32 @@
+---
+court: "Nebraska Court of Appeals"
+docket: "A-92-982"
+decided: "1994-06-07"
+citations: ["2 Neb. App. 884", "518 N.W.2d 158"]
+reporter: "neb-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sievers, Chief Judge, and Connolly and Irwin, Judges."]
+parties: ["National Account Systems of Omaha, Inc., appellant, v. Timothy J. McIntyre, appellee."]
+source_url: "https://static.case.law/neb-app/2/cases/0884-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5365520
+cites_cases: ["146 Neb. 342", "200 Neb. 466", "203 Neb. 338", "213 Neb. 736", "213 Neb. 862", "215 Neb. 429", "215 Neb. 670", "222 Neb. 448", "340 N.W.2d 384", "Neb. Rev. Stat. § 25-2720"]
+---
+
+# National Account Systems of Omaha, Inc. v. McIntyre
+
+## Majority (Sievers, Chief Judge.)
+
+Sievers, Chief Judge.
+On June 17, 1992, National Account Systems of Omaha, Inc. (National), an assignee of “A.M.I. - St. Joseph C.M.H.,” filed a petition in the county court for Douglas County asserting that Timothy J. McIntyre was indebted to it in the amount of $80 plus interest. On July 13, McIntyre, acting pro se, filed a written response in which he admitted receiving the services and asserted that he was under the impression that his insurance carrier would pay $80 of the bill and he would pay $20, which he had done. On July 22, National filed a motion for a judgment on the pleadings asserting that there was no material issue of fact presented by the answer and that National was entitled to the principal plus interest, and attorney fees of $13. Following a hearing on August 6, of which we do not have a record, the court made an entry on the trial docket stating: “Plaintiff appeared; Defendant failed to appear. Plaintiff’s Motion for Judgment on the Pleadings is granted. Judgment Order to be submitted.” A formal judgment was memorialized in the record and dated August 10.
+The next trial docket entry, dated August 14,1992, provides: “On defendant’s motion, judgment entered on 8-6-92 is hereby set aside, costs waived. Pre Trial to be heard 9-4-92 at 11:15 am.”
+National filed an appeal to the district court asserting that the county court erred in setting aside the judgment because it lacked authority to set aside a judgment on the pleadings pursuant to Neb. Rev. Stat. § 25-2720 (Reissue 1989), and even if that statute was broad enough to include setting aside a judgment on the pleadings, the court abused its discretion by setting aside the order. The district court affirmed the county court’s judgment, and National perfected this appeal.
+Section 25-2720 provides that a county court may set aside a judgment rendered against a defendant in his or her “absence” when the following conditions are met:
+(1) That he [or she] pay the costs awarded against him [or her]; (2) that his [or her] motion be made within thirty days after such judgment was entered; (3) that he [or she] notify in writing the opposite party, or his [or her] attorney, or cause it to be done, of the opening of such judgment and of the time and place of trial, at least five days before the time thereof, if the party reside in the county, and if neither the plaintiff nor his [or her] attorney be a resident of the county, by leaving a written notice thereof at the office of the clerk of the court ten days before the trial; Provided, that the time of trial shall not be more than forty days after the rendition of the judgment.
+The Nebraska Supreme Court has held that the predecessor statutes to § 25-2720, which contain language nearly identical to that quoted above, are jurisdictional and that the municipal court acquires no jurisdiction to set aside any default judgment unless the provisions of the statute are followed. State Furniture Co. v. Abrams, 146 Neb. 342, 19 N.W.2d 627 (1945). See, also, Anderson Mktg. Associates v. Roberts, 215 Neb. 670, 340 N.W.2d 384 (1983); Lincoln Welding Supply v. Inhalation Plastics, 213 Neb. 862, 331 N.W.2d 804 (1983); Vacca v. DeJardine, 213 Neb. 736, 331 N.W.2d 516 (1983); Credit Bureau of Hastings, Inc. v. George, 203 Neb. 338, 278 N.W.2d 608 (1979).
+Additionally, in Vacca, supra, the court held that in order for a trial court to vacate a default judgment, the party seeking to vacate judgment must tender an answer or some other proof disclosing a meritorious defense, and that a general denial was insufficient to allow the vacation of a judgment under § 25-2720. A meritorious defense means one worthy of judicial inquiry because it raises a question of law deserving some investigation and discussion or a real controversy as to the essential facts. Steinberg v. Stahlnecker, 200 Neb. 466, 263 N.W.2d 861 (1978).
+In the case at bar, a review of the transcript reveals that a judgment on the pleadings was rendered by the county court on August 6,1992. See Federal Land Bank v. McElhose, 222 Neb. 448, 384 N.W.2d 295 (1986) (holding that the rendition of a judgment is the act of the court in pronouncing the judgment, accompanied by a notation on the trial docket, and any later document setting out in greater detail the judgment merely confirms the docket entry). See, also, Sederstrom v. Wrehe, 215 Neb. 429, 339 N.W.2d 74 (1983). The judgment was set out in greater detail on August 10.
+The trial docket reflects that the court vacated the August 6, 1992, judgment on August 14 “[o]n defendant’s motion.” National’s brief indicates that the motion was oral. There is no motion or other pleading alleging a meritorious defense to the judgment in the transcript before this court. No showing is in the transcript that McIntyre paid costs as required by § 25-2720. Instead, the county court judge “waived” those costs. Viewing the case as one where judgment was rendered against defendant in his absence, it is clear that the requirements of § 25-2720 and Vacca, supra, apply, but were not fulfilled. The county court abused its discretion when it set aside its original judgment. Because it was error for the county court to vacate the judgment, it was error for the district court to affirm the vacation. The cause must be remanded to the district court with direction to issue an order requiring that the county court reinstate the original judgment.
+Because the cause must be remanded on other grounds, we need not address whether the county court had authority to waive the defendant’s costs when it vacated a default judgment.
+Reversed and remanded with direction.
