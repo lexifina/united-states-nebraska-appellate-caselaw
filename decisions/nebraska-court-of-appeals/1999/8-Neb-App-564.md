@@ -1,0 +1,78 @@
+---
+court: "Nebraska Court of Appeals"
+docket: "A-98-515"
+decided: "1999-07-27"
+citations: ["8 Neb. App. 564", "598 N.W.2d 67"]
+reporter: "neb-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hannon, Sievers, and Carlson, Judges."]
+parties: ["Evelyn M. Kulhanek, appellant, v. Union Pacific Railroad Company, a foreign corporation, et al., appellees."]
+source_url: "https://static.case.law/neb-app/8/cases/0564-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1172537
+cites_cases: ["160 So. 2d 19", "228 Neb. 391", "229 Neb. 321", "230 Neb. 11", "234 Neb. 631", "246 Neb. 55", "246 Neb. 701", "247 Neb. 611", "249 Neb. 597", "250 Neb. 419", "254 Neb. 228", "Neb. Rev. Stat. § 25-1332", "Neb. Rev. Stat. § 25-1334", "Neb. Rev. Stat. § 60-6"]
+---
+
+# Kulhanek v. Union Pacific Railroad
+
+## Majority (Carlson, Judge.)
+
+Carlson, Judge.
+INTRODUCTION
+Evelyn M. Kulhanek appeals from a grant of summary judgment by the district court for Dodge County, Nebraska, in this negligence action. For the reasons set forth below, we reverse.
+BACKGROUND
+On July 19, 1995, at approximately 1:30 a.m., Kulhanek was driving a van along a service road within the Fremont, Nebraska, rail yard, transporting two employees of the Union Pacific Railroad Company (Union Pacific). Kulhanek was employed by Brown’s Crew Car of Wyoming, Inc., doing business as Armadillo Express (Brown’s), an independent company that had contracted with Union Pacific to transport for-hire locomotive crewmembers to and from trains in the Fremont rail yard. On that night, Kulhanek drove onto a rail crossing and stopped her van on the tracks. The van was struck on the driver’s side by a Union Pacific switch engine, which pushed the van several yards down the track. Kulhanek allegedly suffered injuries, but neither of her passengers was hurt.
+At the time of the accident, Kulhanek was 68 years old. She had been employed by Brown’s or its predecessor company, Cimarron, for more than 8 years, and had been driving in the same geographic area throughout that time. The Fremont rail yard contains numerous railroad tracks that are used day and night by locomotives switching railcars and making up trains. The area is well lighted. The crossing in question was not a public crossing, but, rather, a level crossing made of packed gravel within the rail yard. There is no issue as to any problem with traversing that crossing.
+According to Kulhanek, on the night of the accident, she found her approach to the crossing partially encumbered by a bus that was parked adjacent to the tracks, which required her to drive around it and approach the crossing from a position parallel to the tracks. She claims this created a distraction. Union Pacific alleges that the bus was not parked in such a manner as to impede the progress of Kulhanek’s van.
+Kulhanek brought a common-law negligence claim against Union Pacific, alleging that Union Pacific was negligent in (1) failing to inform her that switch engines would begin operating during the “ ‘graveyard shift’ (2) failing to sound a bell or whistle, “ ‘as required by statute’ (3) not keeping a proper lookout; (4) not keeping its locomotive under proper control; (5) parking or allowing the bus to be parked adjacent to the track; and (6) operating its locomotive at an excessive speed. In Union Pacific’s answer, it generally denied any negligence on its part and alleged that Kulhanek was contributorily negligent.
+Union Pacific then moved for summary judgment and offered five exhibits in support of that motion. Among them was exhibit 4, the deposition of Kulhanek, which was received without objection. Union Pacific next offered exhibit 5, a transcribed tape-recorded interview of Kulhanek, purportedly made the same day as the accident. Kulhanek objected to that exhibit on grounds of hearsay, foundation, best evidence rule, and the “ ‘rule of completeness.’ ” Exhibit 5 was received over objection. Union Pacific next offered exhibit 6, the deposition of an investigator for Union Pacific, which was received without objection. Next, Union Pacific offered exhibit 7, a statement by W.B. Dixon, an engineer who was a passenger in the van, made to a Union Pacific claims specialist. Kulhanek objected to this exhibit on grounds of hearsay, foundation, best evidence, and the “‘rule of completeness.’” It was received over objection. Finally, Union Pacific offered exhibit 8, four photographs of the accident scene, which was received over Kulhanek’s foundational objection.
+The district court granted the motion for summary judgment on April 22, 1998. The court found, in relevant part:
+1____The train had its headlights on and a crewman riding on the steps in front to direct the engineer in his movements....
+3. The evidence... conclusively shows that the bus was not an impediment to Plaintiff’s travel, or close enough to the crossing to alter her route of travel or her view of the oncoming train. No reasonable mind would possibly conclude that the bus caused Plaintiff to stop her car on the top of the tracks and to fail to look for the possible presence of an oncoming train.
+4. A motorist has a duty to look and listen for approaching trains at railroad crossings and, if she fails to do so, the railroad should be granted summary judgment. When a motorist drives an automobile squarely across the track and stops without looking for approaching trains, she is guilty of contributory negligence as a matter of law and barred from recovery.
+Kulhanek filed her notice of appeal on May 19, 1998.
+ASSIGNMENTS OF ERROR
+Kulhanek makes three assignments of error, which we will address in the following order: (1) The district court erred in relying upon the statements of Kulhanek and Dixon in considering the motion for summary judgment, (2) the district court erred in granting summary judgment, and (3) the district court erred by failing to address all contested material issues of fact.
+STANDARD OF REVIEW
+In reviewing an order granting a motion for summary judgment, an appellate court views the evidence in a light most favorable to the party opposing the motion and gives that party the benefit of all reasonable inferences deducible from the evidence. O’Connor v. Kaufman, 250 Neb. 419, 550 N.W.2d 902 (1996).
+ANALYSIS
+General Standards for Summary Judgment
+Summary judgment is proper only when the pleadings, depositions, admissions, stipulations, and affidavits in the record disclose that there is no genuine issue as to any material fact or as to the ultimate inferences that may be drawn from those facts and that the moving party is entitled to judgment as a matter of law. Elliott v. First Security Bank, 249 Neb. 597, 544 N.W.2d 823 (1996); Neb. Rev. Stat. § 25-1332 (Reissue 1995). On a motion for summary judgment, the question is not how a factual issue is to be decided, but whether any real issue of material fact exists. Maloley v. Shearson Lehman Hutton, Inc., 246 Neb. 701, 523 N.W.2d 27 (1994).
+Whether Summary Judgment Was
+Appropriate on Grounds of
+Contributory Negligence by Kulhanek
+From its order, it is clear that the district court rested its grant of summary judgment upon its conclusion that Kulhanek was contributorily negligent as a matter of law to such a degree as to bar recovery. We disagree.
+Union Pacific argues, and the district court agreed, that Kulhanek had a duty to look and listen for the train and to keep her van under such control that she could stop to avoid a collision. Because Kulhanek proceeded onto the tracks, Union Pacific asserts that she was sufficiently contributorily negligent to bar plaintiff’s recovery as a matter of law. That is an oversimplification of Kulhanek’s duty.
+The general rule is that a motorist approaching a railroad crossing has a duty to look and listen at a time and place where looking and listening will be effective to prevent an accident. Such motorist also has a duty to stop where a reasonably prudent person would have considered a stop necessary under the circumstances. Crewdson v. Burlington Northern RR. Co., 234 Neb. 631, 452 N.W.2d 270 (1990). See, also, Anderson v. Union Pacific RR. Co., 229 Neb. 321, 426 N.W.2d 518 (1988); Neb. Rev. Stat. § 60-6,170 (Reissue 1998).
+Failure to look and listen when approaching a railroad crossing or to stop where a reasonably prudent person would stop may be evidence of negligence; however, it is not contributory negligence as a matter of law. Crewdson, supra. If there is a reasonable excuse for not seeing an approaching train, such as an obstruction preventing one from seeing the train or a distraction diverting the attention, the question whether conduct in traversing a railroad crossing is reasonable is a matter for the jury. Id.
+In Anderson, supra, the plaintiffs’ tractor-trailer was damaged when struck by a train at a public crossing containing three sets of railroad tracks. Seventeen empty hopper cars had been parked 218 feet east of the crossing. The plaintiffs alleged that the location of these empty cars created a dangerous and hazardous railroad crossing. Union Pacific claimed that the plaintiffs’ agent was contributorily negligent because of his failure to comply with the above-stated duties to look, listen, and stop.
+In determining contributory negligence, the Nebraska Supreme Court has considered the “ ‘dangerous trap doctrine’
+“ ‘[I]f a [railroad] crossing is unusually dangerous because the view of the motorist is so obstructed as to require that he place himself in a position of peril dangerously near the tracks, before he has a view of the oncoming train, the railroad company will be held liable, unless it can show that it took unusual precautions, such as reducing the speed of the train, or increasing its warnings and providing signaling devices, etc. The theory of this doctrine is that the railroad may not rely upon the duty of the motorist to stop and look, if the physical circumstances are such that stopping and looking will do the motorist no good.’ ”
+Anderson, 229 Neb. at 330, 426 N.W.2d at 523, quoting Bertrand v. Missouri Pacific Railroad Company, 160 So. 2d 19 (La. App. 1964).
+In Kulhanek’s deposition, she asserted that the bus created a distraction that resulted in the collision:
+Q. [By Union Pacific’s counsel] [P]rior to going onto that crossing, had you stopped the van?
+A. Yes.
+Q. Can you tell me where it was that you stopped the van?
+A. My van was pointed west.
+Q. . . . [W]hen you stopped, you were parallel with the railroad tracks?
+A. When I first stopped, before I made my turn, yes.
+Q. When you stopped there, did you look to your left and to your right to see if the tracks were clear?
+A. No. We looked as good as we could look as — I was between a bus and the crossover, so as I was going around the bus to go get to the crossover, I was trying to avoid hitting the bus, and so as I made a left-hand turn, I was on the track, because the bus was interfering with everything. I mean, if it wasn’t for the bus, I’d have been — I wouldn’t have been on the track.
+Q. You’re indicating that a bus obscured your vision?
+A. Chicago Northwestern work bus was parked parallel to the tracks in front of the crossover. In order for me to get to the crossover, I had to go — instead of going right up here and stopping, I had to go around the bus and go west.
+So I was between the track and the bus, and of course, beings the bus was so close, we were paying attention to the bus.
+Viewing the evidence in a light most favorable to Kulhanek, and giving her the benefit of all reasonable inferences deducible from the evidence, we find the evidence shows that there was a bus parked within the vicinity of the crossing Kulhanek attempted to traverse. A jury could reasonably find that Kulhanek’s view of the Union Pacific engine and her approach to the crossing were so obstructed as to require that she place herself in a position of peril before she could see the oncoming train.
+This is a question of fact and should be decided by the trier of fact at a trial, not in summary judgment proceedings. “Summary judgment should not be used to deprive a litigant of a formal trial if there is a genuine issue of fact.” Medley v. Davis, 247 Neb. 611, 619, 529 N.W.2d 58, 64 (1995). It was, accordingly, error for the district court to enter summary judgment on these grounds.
+Statements by Dixon and Kulhanek
+Having found reversible error, we nevertheless deem it necessary to discuss Kulhanek’s second assignment of error, that the district court erred in considering the statements to Union Pacific investigators made by Kulhanek and Dixon, because that issue may recur in subsequent proceedings. See Mandery v. Chronicle Broadcasting Co., 228 Neb. 391, 423 N.W.2d 115 (1988).
+Section 25-1332 provides that a motion for summary judgment be supported by “pleadings, depositions, and admissions on file, together with the affidavits, if any.” The statements by Kulhanek and Dixon are clearly not pleadings, depositions, or admissions. Accordingly, the district court could not consider them on this motion unless they are deemed affidavits, pursuant to Neb. Rev. Stat. § 25-1334 (Reissue 1995). We note that those statements, although transcribed, were unsworn. In construing § 25-1334, this court has held that unsworn summaries of facts or arguments and of statements which would be inadmissible in evidence are of no effect in a motion for summary judgment. White v. Ardan, Inc., 230 Neb. 11, 430 N.W.2d 27 (1988). Accordingly, it was an abuse of discretion, and error, for the district court to consider those statements.
+Union Pacific argues that even if the district court erred in considering those statements, the error should be deemed harmless and, accordingly, not an abuse of discretion, “since the district court’s decision to grant summary judgment was correct and not based upon this evidence.” Brief for appellee Union Pacific at 28.
+We disagree on both counts. At the threshold, for the reasons set out above, we find that summary judgment was inappropriately granted on the properly admitted record.
+Moreover, it does appear that the district court did rely, at least in part, upon those statements. For example, although the court makes the factual assertion that a crewmember was riding on the front of the train, the only reference to that scenario is contained within Dixon’s improperly admitted statement. Because the district court does not cite to the record, we cannot discern whether any of its other conclusions similarly rest upon improperly admitted testimony. In such a situation, the better course is to reverse the grant of summary judgment.
+[Sjummary judgment is an extreme remedy because summary judgment may dispose of a crucial question in litigation, or the litigation itself, and may thereby deny a trial to the party against whom the motion for summary judgment is directed. . . . Moreover, overruling a motion for summary judgment effectuates no real harm to the moving party.
+Schade v. County of Cheyenne, 254 Neb. 228, 232, 575 N.W.2d 622, 625 (1998).
+We do not, however, address Kulhanek’s third assignment of error, that the district court erred by failing to address all contested material issues of fact, because that issue is not likely to recur in further proceedings. An appellate court is not obligated to engage in an analysis which is not needed to adjudicate the case and controversy before it. Kelly v. Kelly, 246 Neb. 55, 516 N.W.2d 612 (1994).
+CONCLUSION
+For the above-stated reasons, the order of summary judgment by the district court is reversed.
+Reversed.
