@@ -1,0 +1,43 @@
+---
+court: "Nebraska Court of Appeals"
+docket: "A-05-1155"
+decided: "2007-09-18"
+citations: ["15 Neb. App. 955", "739 N.W.2d 470"]
+reporter: "neb-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Irwin, Sievers, and Cassel, Judges."]
+parties: ["Johnathan Lessley, appellee, v. Nebraska Department of Correctional Services, appellant."]
+source_url: "https://static.case.law/neb-app/15/cases/0955-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4167062
+cites_cases: ["12 Neb. App. 87", "12 Neb. App. 944", "418 U.S. 539", "Neb. Rev. Stat. § 84-918"]
+---
+
+# Lessley v. Nebraska Department of Correctional Services
+
+## Majority (Irwin, Judge.)
+
+Irwin, Judge.
+I. INTRODUCTION
+The Nebraska Department of Correctional Services (DCS) appeals from an order of the district court for Johnson County, Nebraska, reversing the decision of the DCS Appeals Board. DCS challenges the district court’s holding that DCS denied Johnathan Lessley due process when it denied Lessley’s request for a continuance in a disciplinary proceeding. We find that the district court erred in finding a denial of due process, and we reverse, and remand with directions to affirm the order of the appeals board.
+II. BACKGROUND
+On March 25, 2005, a misconduct report was written alleging that Lessley had committed several rule infractions. On March 31, Lessley was informed of the alleged rule infractions and the basis for the charges. Lessley was also informed that a disciplinary hearing would be held on April 4. Lessley requested that a Courtney Starks represent him at the hearing and requested that a number of witnesses be at the hearing. On March 31, Lessley wrote two inmate requests; in one, he requested two additional witnesses, and in the other, he requested a 2-week continuance “to be able to attend [the] law library & have time to consult with legal aide Ernie Harper.”
+On April 4, 2005, a disciplinary hearing was conducted. The chairperson of the disciplinary committee denied Lessley’s request for a continuance and held that Lessley had had ample time to prepare a defense.
+The evidence presented at the disciplinary hearing indicated that Lessley was accused of using threatening language concerning another inmate. Reports were presented detailing the observations of corrections officers concerning the alleged incident. Lessley denied making the alleged statement and argued that he had had inadequate time to prepare and that he does not “get to go to the law library [over the] weekends.” Lessley was found guilty of making the threatening statement, and discipline was imposed.
+Lessley appealed the disciplinary committee’s ruling to the DCS Appeals Board. The appeals board ruled that due process requires that an inmate be provided at least 24 hours’ notice prior to a disciplinary hearing, that Lessley received several days’ notice, and that there was no harm evident concerning the availability of witnesses or Lessley’s representation at the disciplinary hearing. The appeals board noted that Lessley did not attempt to present any documentary evidence at the disciplinary hearing. The appeals board affirmed the decision of the disciplinary committee.
+On May 24, 2005, Lessley filed a petition in the district court seeking review of the appeals board’s ruling. Lessley alleged that his due process and equal protection rights were violated and that he was not provided sufficient time to prepare a defense.
+On August 29, 2005, the district court entered an order reversing the decision of the appeals board as upheld by the disciplinary committee. The district court held that the Nebraska Administrative Code allows for the granting of a continuance for a reasonable period of time “for good cause shown.” The court held that Lessley was provided “[o]nly” 4 days to prepare a defense. The court held that Lessley’s request for a continuance was not a delay tactic and held that the case was “not complicated.” The court held that the refusal of Lessley’s request for a continuance was a denial of due .process. The court reversed the disciplinary decision and ordered it expunged from Lessley’s record. This appeal followed.
+III. ASSIGNMENTS OF ERROR
+DCS’ only assignment of error is that the district court erred in finding that the denial of Lessley’s request for a continuance was a due process violation.
+IV. ANALYSIS
+DCS argues that the district court erred in finding that the denial of Lessley’s request for a continuance was a due process violation. DCS argues that minimum requirements of due process were satisfied, that Lessley had adequate time to prepare, and that Lessley made no showing that additional time to prepare was needed. We agree.
+An aggrieved party may obtain review of any judgment or final order entered by a district court under the Administrative Procedure Act (APA). See Neb. Rev. Stat. § 84-918 (Reissue 1999). A final order rendered by a district court in a judicial review pursuant to the APA may be reversed, vacated, or modified by an appellate court for errors appearing on the record. Louis v. Nebraska Dept. of Corr. Servs., 12 Neb. App. 944, 687 N.W.2d 438 (2004). When reviewing an order of a district court under the APA for errors appearing on the record, the inquiry is whether the decision conforms to the law, is supported by competent evidence, and is neither arbitrary, capricious, nor unreasonable. Id. An appellate court, in reviewing a district court judgment for errors appearing on the record, will not substitute its factual findings for those of the district court where competent evidence supports those findings. Id. Whether a decision conforms to law is by definition a question of law, in connection with which an appellate court reaches a conclusion independent of that reached by the lower court. Id.
+Prison disciplinary proceedings are not treated as criminal prosecutions, and therefore, the full panoply of rights due a criminal defendant does not apply; instead, there must be a mutual accommodation between the institutional needs and objectives and the provisions of the Constitution. Louis, supra. ‘“Disciplinary hearings are sui generis, governed by neither the evidentiary rules of a civil trial, a criminal trial, nor an administrative hearing. The only limitations are those imposed by due process, a statute, or administrative regulations.’” Id. at 950, 687 N.W.2d at 443, quoting Claypool v. Nebraska Dept. of Corr. Servs., 12 Neb. App. 87, 667 N.W.2d 267 (2003).
+In Wolff v. McDonnell, 418 U.S. 539, 94 S. Ct. 2963, 41 L. Ed. 2d 935 (1974), the U.S. Supreme Court held that at least a brief period of time after notice of a disciplinary hearing, no less than 24 hours, should be allowed to an inmate to prepare for the hearing. Similarly, 68 Neb. Admin. Code, ch. 6, § 006.05 (2000), provides that “[n]o less than twenty-four hours before the [disciplinary] hearing is scheduled to be held, each inmate charged with an offense shall be given written notice of the charge or charges.”
+In this case, the record indicates that the alleged incident occurred on March 25, 2005. On March 31, Lessley was provided notice that the disciplinary hearing would be held on April 4. On the same date, Lessley filed a request for a 2-week continuance to meet with “legal aide Ernie Harper,” who the record indicates did represent Lessley at the hearing on April 4.
+At the disciplinary hearing, Lessley denied making the statement which was the basis for the charge. Lessley presented no evidence, in the form of sworn testimony or otherwise, to support his argument that he was not allowed to access the law library between March 31 and April 4, 2005. Lessley made no indication what good cause existed for a 2-week continuance or what legal issue might have been raised or researched.
+As the district court noted, this was not a complicated case. Lessley was alleged to have made a threatening statement, and he denied making the statement. There does not appear to have been any legal question involved in this case. Lessley was provided with approximately 4 days to prepare a defense, received requested representation at the hearing, and made no attempt to introduce any evidence or make any legal challenge to the charge. The district court erred in determining' that Lessley was deprived of due process when his requested continuance was denied.
+V. CONCLUSION
+For the foregoing reasons, we reverse the decision of the district court and remand the case with directions to affirm the order of the appeals board.
+Reversed and remanded with directions.
